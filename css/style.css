@@ -179,3 +179,16 @@ header {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+#menu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#menu div {
+  width: 100%;
+  height: 80%;
+  display: flex;
+  justify-content: space-between;
+  /* flex-wrap: nowrap; */
+}
