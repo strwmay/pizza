@@ -118,3 +118,8 @@ header {
 #whatsapp ion-icon {
   font-size: 25px;
 }
+
+.whats{
+  text-decoration: none;
+  color: #fff;
+}
