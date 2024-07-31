@@ -238,6 +238,7 @@ header {
   justify-content: center;
   align-items: center;
   gap: 100px;
+  text-align: center;
 }
 
 #delivery h1 {
@@ -248,4 +249,16 @@ header {
 #delivery .sec-menu {
   justify-content: center;
   padding: 40px;
+}
+
+#icone {
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+  margin: 20px 0;
+}
+
+.itens {
+  max-width: 250px;
+  text-align: center;
 }
