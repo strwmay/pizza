@@ -60,6 +60,7 @@ header {
 
 .main-navigation {
   display: flex;
+  align-items: center;
 }
 
 .main-navigation ul {
