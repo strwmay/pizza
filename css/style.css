@@ -85,7 +85,7 @@ header {
 
 .main-navigation a:hover,
 .main-navigation a:focus {
-  border-color: #e7a200;
+  border-color: #7abee3;
 }
 
 .site-header-main {
@@ -105,7 +105,7 @@ header {
 }
 
 #whatsapp {
-  background: #e7a200;
+  background: #7abee3;
   border-radius: 65px;
   padding: 0px 15px;
   font-size: medium;
@@ -137,7 +137,7 @@ header {
   display: flex;
   justify-content: center;
   margin: 0 auto;
-  background: #f3efed;
+  background: #dceaf7;
 }
 
 #boasvindas img {
@@ -159,14 +159,14 @@ header {
   padding-top: 10px;
   padding-bottom: -100px;
   margin-bottom: 0;
-  color: #d22a40;
+  color: #f1a9c8;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 #txtboasvindas h1 {
   text-transform: uppercase;
   font-weight: 900;
-  color: #e7a200;
+  color: #7abee3;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   margin-top: 0;
   margin-bottom: 0;
@@ -195,7 +195,7 @@ header {
 }
 
 #menu h2 {
-  color: #d22a40;
+  color: #f1a9c8;
   text-transform: uppercase;
   font-size: 35px;
   font-weight: 900;
@@ -213,11 +213,11 @@ header {
 
 .btnmenu {
   text-decoration: none;
-  color: #f3efed;
-  background: #92b36b;
+  color: #f4e8dc;
+  background: #b89774;
   padding: 10px 20px;
   border-radius: 50px;
-  border-bottom: 2px solid #77816b;
+  border-bottom: 2px solid #d8c1a9;
 }
 
 #promopizza {
@@ -232,7 +232,7 @@ header {
 
 #delivery {
   max-height: 270px;
-  background: #f3efed;
+  background: #dceaf7;
   margin: 50px 0;
   display: flex;
   justify-content: center;
@@ -243,7 +243,7 @@ header {
 
 #delivery h1 {
   text-transform: uppercase;
-  color: #d22a40;
+  color: #f1a9c8;
   font-weight: 900;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
@@ -286,7 +286,7 @@ header {
 }
 
 .forms h2 {
-  color: #e7a200;
+  color: #7abee3;
   font-size: 28px;
   line-height: 88px;
   text-transform: uppercase;
@@ -322,17 +322,17 @@ header {
 }
 
 .forms input[type="submit"] {
-  background: #e7a200;
-  border-color: #e7a200;
+  background: #7abee3;
+  border-color: #7abee3;
   width: 155px;
   border-radius: 50px;
-  color: #f3efed;
+  color: #dceaf7;
   font-weight: 700;
   margin-top: 20px;
 }
 
 footer {
-  background: #e7a200;
+  background: #7abee3;
   min-height: 400px;
   margin-top: -281px;
   color: #fff;
