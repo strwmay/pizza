@@ -252,6 +252,11 @@ header {
   padding: 40px;
 }
 
+#delivery #whatsapp {
+  background: #b89774;
+  margin-top: -25px;
+}
+
 #icone {
   display: flex;
   justify-content: center;
@@ -326,7 +331,7 @@ header {
   border-color: #7abee3;
   width: 155px;
   border-radius: 50px;
-  color: #dceaf7;
+  color: #ffffff;
   font-weight: 700;
   margin-top: 20px;
 }
@@ -334,7 +339,7 @@ header {
 footer {
   background: #7abee3;
   min-height: 400px;
-  margin-top: -281px;
+  margin-top: -350px;
   color: #fff;
   display: flex;
   flex-direction: column;
@@ -362,7 +367,7 @@ footer #dados:first-child {
 
 #copyright {
   text-align: center;
-  margin-top: 100px;
+  margin-top: 150px;
 }
 
 textarea {
